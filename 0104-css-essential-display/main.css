@@ -11,6 +11,8 @@ div {
 img {
    border: 2px dashed orange;
     border-radius: 100%;
+    padding: 50px;
+    margin: 40px;
 }
 .lala {
    border: 2px groove orangered;
