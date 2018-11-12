@@ -1,0 +1,29 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("1.jpg");
+    background-size: cover;
+    /*background-repeat: no-repeat;*/
+}
+img {
+   border: 2px dashed orange;
+    border-radius: 100%;
+}
+.lala {
+   border: 2px groove orangered;
+    border-radius: 20%;
+}
+.lala1 {
+   border: 2px dotted orangered;
+    border-radius: 30%;
+}
+.lala2 { border: 2px double orangered;
+    border-radius: 40%;
+}
+.lala3 {
+   border: 2px dashed orangered;
+    border-radius: 60%;
+}
+
