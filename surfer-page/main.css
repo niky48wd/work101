@@ -1,0 +1,21 @@
+html {
+    background-color: #e4ffb8;
+}
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #d5fc71;
+    border: 5px solid #706eff;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 10px ridge #ff868b;
+}
+#primary {
+color: #ff4468;
+}
+#secondary {
+color: #1aff16;
+}
