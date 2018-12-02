@@ -1,0 +1,18 @@
+div {
+    width: 600px;
+    height: 600px;
+    border: 50px solid red;
+    background-image: url("../../assets/images/surf.jpg");
+    background-repeat: no-repeat;
+    /*background-position: center;   */
+    background-size: contain;
+    background-origin: content-box;
+
+    /*background-origin: padding-box;*/
+    /*background-origin: border-box;*/
+
+    padding: 40px;
+    color:white;
+    background-color: #1aff16;
+
+}

@@ -1,0 +1,83 @@
+/*1111111*/
+/*div {*/
+
+    /*width: 190px;*/
+    /*height: 100px;*/
+    /*border: 2px solid black;*/
+    /*border-radius: 30%;*/
+    /*display:inline-block;*/
+/*}*/
+/*.drb1 {*/
+/*background-color: blue;*/
+/*}*/
+/*.drb2 {*/
+/*background-color: green;*/
+/*}*/
+/*.drb3 {*/
+/*background-color: red;*/
+/*}*/
+/*.drb4 {*/
+/*background-color: yellowgreen;*/
+/*}*/
+
+
+
+
+/*2222222*/
+
+/*html {*/
+    /*font-size: 2rem;*/
+/*}*/
+
+/*ul {*/
+    /*list-style-type: none;*/
+/*}*/
+
+/*li {*/
+    /*border: 2px solid red;*/
+    /*border-radius: 50px;*/
+    /*display: inline-block;*/
+/*}*/
+ /*a {*/
+     /*padding: 10px;*/
+     /*border: 2px solid black;*/
+     /*border-radius: 50px;*/
+     /*display: inline-block;*/
+     /*text-decoration: none;*/
+ /*}*/
+/*li:hover {*/
+    /*background-color: tomato;*/
+/*}*/
+
+
+/*3333333333333333*/
+
+body {
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+    border: 2px solid green;
+}
+
+nav, main {
+    border: 2px solid red;
+    box-sizing: border-box;
+
+}
+nav {
+    vertical-align: top;
+    display: inline-block;
+    width: 25%;
+}
+main {
+    display: inline-block;
+    width: 75%;
+}
+
+
+
+
+
+
+
+

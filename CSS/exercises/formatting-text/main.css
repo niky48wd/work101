@@ -1,0 +1,69 @@
+/*html {*/
+    /*font-family: serif;*/
+/*}*/
+
+
+
+/*html {*/
+    /*font-family: sans-serif;*/
+/*}*/
+
+
+
+/*html {*/
+    /*font-family: 'Noto Sans SC', sans-serif;*/
+/*}*/
+
+
+/*html {*/
+    /*text-transform: uppercase;*/
+    /*font-style: italic;*/
+/*}*/
+
+/*html {*/
+/*letter-spacing: 1rem;*/
+/*}*/
+
+/*html {*/
+/*text-shadow: 2px 5px 10px red;*/
+/*}*/
+
+a:hover {
+text-decoration: underline;
+}
+
+a {
+text-decoration: none;
+
+}
+
+/*p {*/
+    /*text-decoration: line-through;*/
+/*}*/
+
+/*p {*/
+    /*text-indent: 100px;*/
+/*}*/
+
+p::first-letter {
+    font-family: cursive;
+    font-size: 2rem;
+    line-height: 2;
+}
+
+p::first-line {
+    color: red;
+    font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
+
+
+
